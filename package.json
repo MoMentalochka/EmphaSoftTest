@@ -1,0 +1,15 @@
+{
+  "name": "emphasoft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Franki <MoMentalochka@yandex.ru>",
+  "license": "ISC"
+}
